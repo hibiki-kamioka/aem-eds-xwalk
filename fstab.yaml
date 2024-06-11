@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p45909-e887933.adobeaemcloud.com/bin/franklin.delivery/hibiki-kamioka/aem-eds-xwalk/main"
+    url: "https://author-p136418-e1368910.adobeaemcloud.com/bin/franklin.delivery/hibiki-kamioka/aem-eds-xwalk/main"
     type: "markup"
     suffix: ".html"
