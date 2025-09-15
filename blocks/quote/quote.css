@@ -36,15 +36,15 @@
 /* Background color classes using CSS variables */
 .block.quote.bg-red {
   --quote-bg-color: crimson;
-  --quote-accent-color: #8b0000; /* Darker red for accent */
+  --quote-accent-color: #800; /* Darker red for accent */
 }
 
 .block.quote.bg-green {
   --quote-bg-color: darkseagreen;
-  --quote-accent-color: #2e8b57; /* Darker green for accent */
+  --quote-accent-color: #2e8b57; /* Darker green for accent - cannot be shortened */
 }
 
 .block.quote.bg-blue {
   --quote-bg-color: deepskyblue;
-  --quote-accent-color: #0066cc; /* Darker blue for accent */
+  --quote-accent-color: #06c; /* Darker blue for accent */
 }
