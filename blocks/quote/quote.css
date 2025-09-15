@@ -34,6 +34,11 @@
 }
 
 /* Background color classes using CSS variables */
+.block.quote.bg-gray {
+  --quote-bg-color: #ccc;
+  --quote-accent-color: #666; /* Darker gray for accent */
+}
+
 .block.quote.bg-red {
   --quote-bg-color: crimson;
   --quote-accent-color: #800; /* Darker red for accent */
